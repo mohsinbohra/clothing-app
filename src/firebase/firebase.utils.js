@@ -3,14 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyAoWjrz4_y3HagS782qncs198D_aUh1fXE",
-  authDomain: "redux-implementation.firebaseapp.com",
-  databaseURL: "https://redux-implementation.firebaseio.com",
-  projectId: "redux-implementation",
-  storageBucket: "redux-implementation.appspot.com",
-  messagingSenderId: "536430847850",
-  appId: "1:536430847850:web:f151fc93163d4a9dbca713",
-  measurementId: "G-1TJD0FVJ5C"
+  apiKey: "AIzaSyBV4a8zsqZ-EirW2SJhgDlzZ1r5AGaX4WQ",
+    authDomain: "crwn-db-295c4.firebaseapp.com",
+    databaseURL: "https://crwn-db-295c4.firebaseio.com",
+    projectId: "crwn-db-295c4",
+    storageBucket: "crwn-db-295c4.appspot.com",
+    messagingSenderId: "1012277921396",
+    appId: "1:1012277921396:web:8685c4a4a00c548edd7321",
+    measurementId: "G-1C154EQXVL"
 };
 
 firebase.initializeApp(config);
