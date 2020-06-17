@@ -11,3 +11,13 @@ a {
 * {
   box-sizing: border-box;
 }
+@media only screen and (max-width: 992px) and (min-width: 768px){
+body .menu-item {
+  min-width: 46%;
+}
+}
+@media only screen and (max-width: 767px) and (min-width: 240px){
+  body .menu-item {
+    min-width: 100%;
+  }
+}
