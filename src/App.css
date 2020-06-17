@@ -15,6 +15,9 @@ a {
 body .menu-item {
   min-width: 46%;
 }
+body .checkout-page {
+  width: 100%;
+}
 }
 @media only screen and (max-width: 767px) and (min-width: 240px){
   body .header .logo-container {
@@ -22,6 +25,9 @@ body .menu-item {
 }
   body .header .options{
     width: 60%;
+  }
+  body .checkout-page {
+    width: 100%;
   }
   body .menu-item {
     min-width: 100%;
