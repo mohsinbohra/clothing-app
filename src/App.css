@@ -27,4 +27,23 @@ body .menu-item {
     width: 100%;
     display: block;
   }
+  body .collections-overview .collection-preview .preview{
+    width: 100%;
+    display: block;
+  }
+  body .collections-overview .collection-preview .preview .collection-item{
+    margin-bottom: 20px;
+  }
+  body .sign-in-and-sign-up,body .sign-in,body .sign-up,body .sign-in .buttons .custom-button {
+    width: 300px;
+    display: block;
+  }
+    body .sign-in .buttons{
+    display: block;
+  }
+  
+  body .sign-in .buttons .custom-button.google-sign-in{
+    width: 300px;
+    margin-top: 15px;
+  }
 }
