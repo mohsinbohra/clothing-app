@@ -20,4 +20,11 @@ body .menu-item {
   body .menu-item {
     min-width: 100%;
   }
+  body .collection-page .items{
+    display: block;
+  }
+  body .collection-item{
+    width: 100%;
+    display: block;
+  }
 }
