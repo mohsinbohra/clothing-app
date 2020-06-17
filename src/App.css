@@ -17,6 +17,12 @@ body .menu-item {
 }
 }
 @media only screen and (max-width: 767px) and (min-width: 240px){
+  body .header .logo-container {
+    padding: 15px 0px;
+}
+  body .header .options{
+    width: 60%;
+  }
   body .menu-item {
     min-width: 100%;
   }
